@@ -8,3 +8,5 @@ Avi Singh Rathore is a dynamic professional with a solid background in Computer 
 </> Programming: PowerShell Scripting, basics of (java & python), Git & GitHub <br> <br>
 🧠 Generative AI: Efficient use of Gen-AI tools such, LLM (GPT, Gemini) <br> <br>
 💼 Administration: Microsoft Office (Word, Excel & PowerPoint), Google Docs (Docs, Sheets & Slides) <br> <br>
+
+[![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComputersAviSR)]([https://github.com/ComputersAviSR]/github-readme-stats)
