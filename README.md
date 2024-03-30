@@ -1,4 +1,4 @@
-[!(digital-technology-innovation-background-Graphics-15340938-1.jpg)](https://github.com/ComputersAviSR/ComputersAviSR/blob/main/digital-technology-innovation-background-Graphics-15340938-1.jpg)
+[!(digital-technology-innovation-background-Graphics-15340938-1.jpg)]([https://github.com/ComputersAviSR/ComputersAviSR/blob/main/github-header-image.png])
 
 # Hi there👨🏻‍💻, my name is Avi Singh Rathore
 
