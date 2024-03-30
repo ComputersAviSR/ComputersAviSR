@@ -1,4 +1,4 @@
-digital-technology-innovation-background-Graphics-15340938-1.jpg
+!(digital-technology-innovation-background-Graphics-15340938-1.jpg)
 
 # Hi there👨🏻‍💻, my name is Avi Singh Rathore
 
