@@ -1,4 +1,4 @@
-[![Avi's GitHub stats](https://github.com/ComputersAviSR/ComputersAviSR/blob/main/github-header-image.png)]([https://github.com/ComputersAviSR]/github-readme-stats)
+[![Avi's GitHub stats](https://github.com/ComputersAviSR/ComputersAviSR/blob/main/github-header-image.png)]
 
 # Hi there👨🏻‍💻, my name is Avi Singh Rathore
 
