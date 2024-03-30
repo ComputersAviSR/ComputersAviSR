@@ -1,6 +1,4 @@
-[![Avi's GitHub stats](https://github.com/ComputersAviSR/ComputersAviSR/blob/main/github-header-image.png)
-
-# Hi there👨🏻‍💻, my name is Avi Singh Rathore
+![Avi's GitHub stats](https://github.com/ComputersAviSR/ComputersAviSR/blob/main/github-header-image.png)
 
 Avi Singh Rathore is a dynamic professional with a solid background in Computer Science & Engineering, with a focus on Cybersecurity Analysis, Cloud Computing, and cutting-edge technologies like AI and computer research. With a Bachelor of Technology from Amity University, Jaipur, Avi has demonstrated exceptional leadership skills as a Team Leader and Class Representative. In his role at SecurDI, he has played a pivotal role in fortifying organizational cybersecurity posture, implementing robust PAM strategies, and ensuring service delivery excellence. Avi's commitment to continuous learning and knowledge sharing has contributed to his well-rounded expertise in cybersecurity solutions, cloud computing, AI, and effective team collaboration.
 
