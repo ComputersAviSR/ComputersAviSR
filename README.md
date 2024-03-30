@@ -1,4 +1,4 @@
-![image](https://github.com/ComputersAviSR/ComputersAviSR/assets/117937693/298dee22-8d78-49d3-ae48-19a73293afc3)
+![image]([https://github.com/ComputersAviSR/ComputersAviSR/assets/117937693/298dee22-8d78-49d3-ae48-19a73293afc3](https://github.com/ComputersAviSR/ComputersAviSR/blob/main/github-header-image.png))
 
 # Hi there👨🏻‍💻, my name is Avi Singh Rathore
 
